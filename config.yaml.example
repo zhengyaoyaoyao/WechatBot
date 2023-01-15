@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: email
-    password: password
+  - email: zhengyaonine@outlook.com
+    password: 94364926.99
     isGoogleLogin: false
 chatPrivateTiggerKeyword: ""
-openAIProxy: ""
+openAIProxy: "https://qingyun.io/api/v1/client/subscribe?token=c44686ce6f4570b893f7291de1fba784"
